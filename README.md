@@ -11,7 +11,7 @@ capabilities.
 
 ## Project Involves
 
-###Data Extraction
+### Data Extraction
 Extracting data from CSV files into PySpark DataFrames. This involves reading CSV files using
 PySpark, which allows for distributed processing of large datasets that traditional data
 processing tools cannot handle efficiently.
